@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Startas&fontSize=90)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=startdata&theme=github_dark&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=startdata&show_icons=true&theme=radical)
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=startas)](https://solved.ac/startas) -->
 </div>
 </br>
